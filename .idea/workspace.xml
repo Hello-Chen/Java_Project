@@ -1,25 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4acdd44-411f-4849-9b21-f9ee20eae906" name="默认的" comment="" />
+    <list default="true" id="e4acdd44-411f-4849-9b21-f9ee20eae906" name="默认的" comment="Class_understanding">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_OO/Java_OO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_OO/src/Class_understanding/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Base/src/Exercise_array_1/array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Base/src/Exercise_array_1/array_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Base/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Base/src/test/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1Z4RMgy4yie1Odz01X66O0Nq5wK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\D_Software\IDE_Code\IntelliJProjects\IDEA_Project\Java_Project\Java_OO\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.test">
+    <configuration name="array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_array_1.array_1" />
+      <module name="Java_Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_array_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
+      <module name="Java_Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.array_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,7 +98,96 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584096333483</updated>
+      <workItem from="1584096336074" duration="796000" />
+      <workItem from="1584097142536" duration="172000" />
+      <workItem from="1584097324306" duration="1967000" />
+      <workItem from="1584179508448" duration="1498000" />
+      <workItem from="1584181097071" duration="105000" />
+      <workItem from="1584181212545" duration="81000" />
+      <workItem from="1584181305394" duration="1347000" />
+      <workItem from="1584193696680" duration="26000" />
+      <workItem from="1584194466737" duration="1641000" />
+      <workItem from="1584241290764" duration="933000" />
+      <workItem from="1584243119392" duration="978000" />
+      <workItem from="1584259834579" duration="963000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class_understanding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class_understanding" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="99" key="#自定义插件存储库" timestamp="1584241618333">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="403" y="99" key="#自定义插件存储库/0.0.1536.834@0.0.1536.834" timestamp="1584241618333" />
+    <state x="472" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584241493782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="472" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1584241493782" />
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584241456669">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584241456669" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584181930518">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1584181930518" />
+    <state x="456" y="96" key="FileChooserDialogImpl" timestamp="1584097031688">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="456" y="96" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584097031688" />
+    <state x="620" y="290" key="Github.ShareDialog" timestamp="1584096413817">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="620" y="290" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096413817" />
+    <state x="404" y="51" key="Github.UntrackedFilesDialog" timestamp="1584096421036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="404" y="51" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096421036" />
+    <state width="1537" height="208" key="GridCell.Tab.0.bottom" timestamp="1584188830299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
+    <state width="1537" height="208" key="GridCell.Tab.0.center" timestamp="1584188830299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
+    <state width="1537" height="208" key="GridCell.Tab.0.left" timestamp="1584188830299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
+    <state width="1537" height="208" key="GridCell.Tab.0.right" timestamp="1584188830299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
+    <state x="246" y="98" key="IDE.errors.dialog" timestamp="1584244415991">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="246" y="98" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1584244415991" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1584260075078">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584260075078" />
+    <state x="464" y="225" key="cloudConfig.SelfSettingsDialog" timestamp="1584096706148">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="464" y="225" key="cloudConfig.SelfSettingsDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096706148" />
+    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584241441570">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584241441570" />
+    <state x="36" y="0" key="new project wizard" timestamp="1584097460376">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="36" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1584097460376" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1584097973126">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1584097973126" />
   </component>
 </project>

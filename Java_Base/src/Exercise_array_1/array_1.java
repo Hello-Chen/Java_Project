@@ -3,6 +3,7 @@ package Exercise_array_1;
             System.out.print(n+" ");
         }*/
         /*for (int i=0;i<=name.length-1;i++){
+
             System.out.println(name[i]);
         }*/
 
