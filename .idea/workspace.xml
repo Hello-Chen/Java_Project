@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4acdd44-411f-4849-9b21-f9ee20eae906" name="默认的" comment="Class_understanding">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_OO/Java_OO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_OO/src/Class_understanding/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e4acdd44-411f-4849-9b21-f9ee20eae906" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/Java_OO/src/Class_understanding/Use_student_class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Base/src/Exercise_array_1/array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Base/src/Exercise_array_1/array_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Base/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Base/src/test/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +42,27 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\D_Software\IDE_Code\IntelliJProjects\IDEA_Project\Java_Project\Java_OO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.test">
+  <component name="RunManager" selected="应用程序.Use_student_class">
+    <configuration name="Use_student_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_understanding.Use_student_class" />
+      <module name="Java_OO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class_understanding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise_array_1.array_1" />
       <module name="Java_Base" />
@@ -83,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Use_student_class" />
         <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.array_1" />
       </list>
@@ -109,8 +118,16 @@
       <workItem from="1584194466737" duration="1641000" />
       <workItem from="1584241290764" duration="933000" />
       <workItem from="1584243119392" duration="978000" />
-      <workItem from="1584259834579" duration="963000" />
+      <workItem from="1584259834579" duration="3499000" />
     </task>
+    <task id="LOCAL-00001" summary="Class_understanding">
+      <created>1584260804046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584260804046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +138,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Class_understanding" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="587" y="65" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1584265558872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="587" y="65" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1584265558872" />
     <state x="403" y="99" key="#自定义插件存储库" timestamp="1584241618333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -129,10 +150,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="472" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1584241493782" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584241456669">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584260803216">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584241456669" />
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584260803216" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584181930518">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -149,38 +170,42 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="404" y="51" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096421036" />
-    <state width="1537" height="208" key="GridCell.Tab.0.bottom" timestamp="1584188830299">
+    <state width="1537" height="208" key="GridCell.Tab.0.bottom" timestamp="1584265014703">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
-    <state width="1537" height="208" key="GridCell.Tab.0.center" timestamp="1584188830299">
+    <state width="1537" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584265014703" />
+    <state width="1537" height="208" key="GridCell.Tab.0.center" timestamp="1584265014702">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
-    <state width="1537" height="208" key="GridCell.Tab.0.left" timestamp="1584188830299">
+    <state width="1537" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584265014702" />
+    <state width="1537" height="208" key="GridCell.Tab.0.left" timestamp="1584265014702">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
-    <state width="1537" height="208" key="GridCell.Tab.0.right" timestamp="1584188830299">
+    <state width="1537" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584265014702" />
+    <state width="1537" height="208" key="GridCell.Tab.0.right" timestamp="1584265014703">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584188830299" />
+    <state width="1537" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584265014703" />
     <state x="246" y="98" key="IDE.errors.dialog" timestamp="1584244415991">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="246" y="98" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1584244415991" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1584260075078">
+    <state x="198" y="0" key="SettingsEditor" timestamp="1584265561222">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584260075078" />
+    <state x="198" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584265561222" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1584260821729">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584260821729" />
     <state x="464" y="225" key="cloudConfig.SelfSettingsDialog" timestamp="1584096706148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="464" y="225" key="cloudConfig.SelfSettingsDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096706148" />
-    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584241441570">
+    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584260730678">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584241441570" />
+    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584260730678" />
     <state x="36" y="0" key="new project wizard" timestamp="1584097460376">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
