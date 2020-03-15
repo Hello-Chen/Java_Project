@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4acdd44-411f-4849-9b21-f9ee20eae906" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_OO/src/Class_understanding/Use_student_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4acdd44-411f-4849-9b21-f9ee20eae906" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +115,7 @@
       <workItem from="1584194466737" duration="1641000" />
       <workItem from="1584241290764" duration="933000" />
       <workItem from="1584243119392" duration="978000" />
-      <workItem from="1584259834579" duration="3499000" />
+      <workItem from="1584259834579" duration="3816000" />
     </task>
     <task id="LOCAL-00001" summary="Class_understanding">
       <created>1584260804046</created>
@@ -127,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584260804046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Class_understanding">
+      <created>1584265647498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584265647498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class_understanding" />
     <option name="LAST_COMMIT_MESSAGE" value="Class_understanding" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="587" y="65" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1584265558872">
@@ -150,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="472" y="225" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1584241493782" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584260803216">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1584265647006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584260803216" />
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584265647006" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584181930518">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -170,42 +175,42 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="404" y="51" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096421036" />
-    <state width="1537" height="208" key="GridCell.Tab.0.bottom" timestamp="1584265014703">
+    <state width="1481" height="199" key="GridCell.Tab.0.bottom" timestamp="1584265774993">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584265014703" />
-    <state width="1537" height="208" key="GridCell.Tab.0.center" timestamp="1584265014702">
+    <state width="1481" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584265774993" />
+    <state width="1481" height="199" key="GridCell.Tab.0.center" timestamp="1584265774993">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584265014702" />
-    <state width="1537" height="208" key="GridCell.Tab.0.left" timestamp="1584265014702">
+    <state width="1481" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584265774993" />
+    <state width="1481" height="199" key="GridCell.Tab.0.left" timestamp="1584265774993">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584265014702" />
-    <state width="1537" height="208" key="GridCell.Tab.0.right" timestamp="1584265014703">
+    <state width="1481" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584265774993" />
+    <state width="1481" height="199" key="GridCell.Tab.0.right" timestamp="1584265774993">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584265014703" />
-    <state x="246" y="98" key="IDE.errors.dialog" timestamp="1584244415991">
+    <state width="1481" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584265774993" />
+    <state x="246" y="98" key="IDE.errors.dialog" timestamp="1584265806349">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="246" y="98" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1584244415991" />
+    <state x="246" y="98" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1584265806349" />
     <state x="198" y="0" key="SettingsEditor" timestamp="1584265561222">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="198" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584265561222" />
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1584260821729">
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1584265839779">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584260821729" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584265839779" />
     <state x="464" y="225" key="cloudConfig.SelfSettingsDialog" timestamp="1584096706148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="464" y="225" key="cloudConfig.SelfSettingsDialog/0.0.1536.834@0.0.1536.834" timestamp="1584096706148" />
-    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584260730678">
+    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584265878747">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584260730678" />
+    <state x="543" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584265878747" />
     <state x="36" y="0" key="new project wizard" timestamp="1584097460376">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
